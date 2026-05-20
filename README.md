@@ -18,7 +18,7 @@ We used a synthetic electric load curve generation tool, DeepCourbogen, to gener
 
 The goal of that challenge is to propose replacements for missing values (“fill the holes”) in the 1 000 curves.
 
-#Data description
+# Data description
 
 For the train sample : 
 
